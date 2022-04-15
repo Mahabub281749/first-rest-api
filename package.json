@@ -1,0 +1,25 @@
+{
+  "name": "first-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahabub281749/first-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahabub281749/first-rest-api/issues"
+  },
+  "homepage": "https://github.com/Mahabub281749/first-rest-api#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.17.3",
+    "save": "^2.4.0"
+  }
+}
